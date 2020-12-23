@@ -74,6 +74,7 @@ $ yarn dev:server
 ## :bulb: Dica ##
 
 Utilize o <a href='https://insomnia.rest/'>Insomnia</a>, pois ele é um cliente HTTP que permite fazermos requisições para API sem precisar utilizar um browser.
+
 :warning: Em construção 
 <img align = "center" src = "insomnia.png" />
 
