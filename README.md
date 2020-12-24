@@ -9,7 +9,7 @@
   <h1 align="center"> Database Upload </h1>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/progress-90%25-brightgreen.svg" alt="PRs Welcome">
+   <img src="https://img.shields.io/badge/progress-100%25-brightgreen.svg" alt="PRs Welcome">
    <img src = "https://img.shields.io/github/issues/LissandraRodrigues/database-upload" />
    <img src = "https://img.shields.io/github/forks/LissandraRodrigues/database-upload" />
    <img src = "https://img.shields.io/github/stars/LissandraRodrigues/database-upload" />
@@ -32,7 +32,6 @@
 ## :dart: Sobre ##
 
 <p align="center">
-  :warning: Em construção 
 	<img align ="center" width="500px" heigth="500px" src="challenge.png"/>
 </p>
 
@@ -75,8 +74,11 @@ $ yarn dev:server
 
 Utilize o <a href='https://insomnia.rest/'>Insomnia</a>, pois ele é um cliente HTTP que permite fazermos requisições para API sem precisar utilizar um browser.
 
-:warning: Em construção 
 <img align = "center" src = "insomnia.png" />
+
+Use a configuração que eu utilizei através do botão abaixo:
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Transa%C3%A7%C3%B5es&uri=https%3A%2F%2Fraw.githubusercontent.com%2FLissandraRodrigues%2Fdatabase-upload%2Fmaster%2Fgo-stack-transacoes.json)
 
 ## :unlock: Licença ##
 
