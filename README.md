@@ -42,7 +42,7 @@ Este projeto é resultado do meu quinto desafio de código no <a href="https://r
 :warning:  Este projeto é complementado pelo <a href='https://github.com/LissandraRodrigues/fundamentos-reactjs
 '> front-end criado no sexto desafio. </a>
 
-<img src="https://github.com/LissandraRodrigues/fundamentos-reactjs/blob/master/go-finances.jpg">
+<img src="https://github.com/LissandraRodrigues/fundamentos-reactjs/blob/master/capa-go-finances.png">
 
 ## :rocket: Tecnologias ##
 
