@@ -39,6 +39,11 @@
 
 Este projeto é resultado do meu quinto desafio de código no <a href="https://rocketseat.com.br/gostack">bootcamp Go Stack da Rocketseat. </a> Nele fui desafiada a colocar em prática tudo que aprendi sobre NodeJS com Typescript, uso de banco de dados com TypeORM e envio de arquivos com Multer.
 
+:warning:  Este projeto é complementado pelo <a href='https://github.com/LissandraRodrigues/fundamentos-reactjs
+'> front-end criado no sexto desafio. </a>
+
+<img src="https://github.com/LissandraRodrigues/fundamentos-reactjs/blob/master/go-finances.jpg">
+
 ## :rocket: Tecnologias ##
 
 As seguintes tecnologias foram utilizadas nesse projeto:
